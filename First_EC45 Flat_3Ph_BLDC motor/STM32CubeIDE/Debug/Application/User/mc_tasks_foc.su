@@ -1,0 +1,7 @@
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/mc_tasks_foc.c:510:13:FOC_Clear	16	static
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/mc_tasks_foc.c:82:13:FOC_Init	40	static
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/mc_tasks_foc.c:160:6:TSK_MF_StopProcessing	8	static
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/mc_tasks_foc.c:556:13:FOC_InitAdditionalMethods	0	static
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/mc_tasks_foc.c:579:13:FOC_CalcCurrRef	24	static,ignoring_inline_asm
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/mc_tasks_foc.c:178:13:TSK_MediumFrequencyTaskM1	32	static
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/mc_tasks_foc.c:638:16:FOC_HighFrequencyTask	64	static

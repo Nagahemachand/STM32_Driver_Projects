@@ -1,0 +1,7 @@
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/register_interface.c:33:9:RI_SetRegisterGlobal	8	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/register_interface.c:180:9:RI_SetRegisterMotor1	24	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/register_interface.c:589:9:RI_GetRegisterGlobal	16	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/register_interface.c:746:11:RI_GetRegisterMotor1	80	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/register_interface.c:1286:9:RI_MovString	4	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/register_interface.c:1312:9:RI_GetIDSize	0	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/register_interface.c:1347:16:RI_GetPtrReg	0	static

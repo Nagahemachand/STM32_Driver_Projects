@@ -1,0 +1,7 @@
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks_foc.c:442:13:FOC_Clear	1
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks_foc.c:82:13:FOC_Init	1
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks_foc.c:163:6:TSK_MF_StopProcessing	1
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks_foc.c:478:13:FOC_InitAdditionalMethods	1
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks_foc.c:501:13:FOC_CalcCurrRef	2
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks_foc.c:181:13:TSK_MediumFrequencyTaskM1	28
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks_foc.c:556:16:FOC_HighFrequencyTask	2

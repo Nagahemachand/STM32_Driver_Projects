@@ -1,0 +1,14 @@
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:91:13:MCboot	16	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:167:13:MC_RunMotorControlTasks	16	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:250:13:TSK_SetChargeBootCapDelayM1	0	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:261:13:TSK_ChargeBootCapDelayHasElapsedM1	0	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:277:13:TSK_SetStopPermanencyTimeM1	0	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:288:13:TSK_StopPermanencyTimeHasElapsedM1	0	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:314:16:TSK_HighFrequencyTask	8	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:372:13:TSK_SafetyTask_PWMOFF	24	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:347:13:TSK_SafetyTask	8	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:446:13:TSK_HardwareFaultTask	8	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:460:6:startMediumFrequencyTask	8	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:474:6:StartSafetyTask	8	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:487:13:UI_HandleStartStopButton_cb	8	static
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/Src/mc_tasks.c:505:13:mc_lock_pins	72	static

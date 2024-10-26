@@ -1,0 +1,7 @@
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/register_interface.c:32:9:RI_SetRegisterGlobal	17
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/register_interface.c:166:9:RI_SetRegisterMotor1	89
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/register_interface.c:613:9:RI_GetRegisterGlobal	20
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/register_interface.c:758:11:RI_GetRegisterMotor1	101
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/register_interface.c:1326:9:RI_MovString	4
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/register_interface.c:1352:9:RI_GetIDSize	2
+C:/Users/nagah/.st_workbench/projects/First_EC45 Flat_3Ph_BLDC motor/Src/register_interface.c:1387:16:RI_GetPtrReg	21

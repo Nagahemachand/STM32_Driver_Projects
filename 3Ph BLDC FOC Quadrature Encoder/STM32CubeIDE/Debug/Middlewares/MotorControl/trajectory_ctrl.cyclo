@@ -1,0 +1,13 @@
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/MCSDK_v6.3.0-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:67:6:TC_Init	1
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/MCSDK_v6.3.0-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:115:6:TC_MoveCommand	5
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/MCSDK_v6.3.0-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:195:6:TC_FollowCommand	5
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/MCSDK_v6.3.0-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:308:6:TC_MoveExecution	11
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/MCSDK_v6.3.0-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:260:6:TC_PositionRegulation	4
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/MCSDK_v6.3.0-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:395:6:TC_EncAlignmentCommand	5
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/MCSDK_v6.3.0-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:451:6:TC_EncoderReset	3
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/MCSDK_v6.3.0-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:474:7:TC_GetCurrentPosition	1
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/MCSDK_v6.3.0-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:485:7:TC_GetTargetPosition	1
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/MCSDK_v6.3.0-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:495:7:TC_GetMoveDuration	1
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/MCSDK_v6.3.0-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:505:17:TC_GetControlPositionStatus	1
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/MCSDK_v6.3.0-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:514:15:TC_GetAlignmentStatus	1
+C:/Users/nagah/.st_workbench/projects/3Ph BLDC FOC Quadrature Encoder/MCSDK_v6.3.0-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:523:6:TC_IncTick	1

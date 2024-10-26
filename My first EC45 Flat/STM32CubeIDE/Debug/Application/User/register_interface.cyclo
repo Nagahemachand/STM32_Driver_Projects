@@ -1,0 +1,7 @@
+C:/Users/nagah/.st_workbench/projects/My first EC45 Flat/Src/register_interface.c:32:9:RI_SetRegisterGlobal	17
+C:/Users/nagah/.st_workbench/projects/My first EC45 Flat/Src/register_interface.c:166:9:RI_SetRegisterMotor1	93
+C:/Users/nagah/.st_workbench/projects/My first EC45 Flat/Src/register_interface.c:639:9:RI_GetRegisterGlobal	20
+C:/Users/nagah/.st_workbench/projects/My first EC45 Flat/Src/register_interface.c:784:11:RI_GetRegisterMotor1	106
+C:/Users/nagah/.st_workbench/projects/My first EC45 Flat/Src/register_interface.c:1376:9:RI_MovString	4
+C:/Users/nagah/.st_workbench/projects/My first EC45 Flat/Src/register_interface.c:1402:9:RI_GetIDSize	2
+C:/Users/nagah/.st_workbench/projects/My first EC45 Flat/Src/register_interface.c:1437:16:RI_GetPtrReg	21
